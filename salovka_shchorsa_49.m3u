@@ -111,12 +111,8 @@ http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
 http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-https://sc.id-tv.kz/Kinosvidanie_hd_38_39.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd_38_39.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья HD
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Марс ТВ
