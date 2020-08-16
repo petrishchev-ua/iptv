@@ -40,6 +40,8 @@ http://playlist.hmara.tv/1b80273d/8ec3f778e9db0ccdeda553015ff067db9575332b.m3u8
 http://playlist.hmara.tv/1b80273d/6e357d409184e9fca5dcc7cd2592db319d8046ee.m3u8
 #EXTINF:-1 group-title="Новости",РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 ,РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:-1 group-title="Новости",РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Российские",ТНТ
