@@ -1,16 +1,112 @@
 #EXTM3U
-#EXTINF:-1,#НАШ
-#EXTGRP:Музичні
-http://playlist.hmara.tv/1b80273d/8f753c9ce36ac4ef8f3554a48c80e905dd6ac662.m3u8
-#EXTINF:-1,#НАШЕ MUSIC
-#EXTGRP:Музичні
-http://playlist.hmara.tv/1b80273d/5850bd59351ead14d53d6f0fbfc8866b826f3b04.m3u8
+#EXTINF:-1,Интер
+#EXTGRP:Загальні
+http://playlist.hmara.tv/1b80273d/626364417d0cb79860b66e1aad993d55b8612d6f.m3u8
+#EXTINF:-1,Україна
+#EXTGRP:Загальні
+http://playlist.hmara.tv/1b80273d/f7092926d996e3034ae406a59e42047ec57ecbf9.m3u8
+#EXTINF:-1,Україна HD
+#EXTGRP:Загальні
+http://playlist.hmara.tv/1b80273d/575b9e778294bea19582ec8705f7c58fdc1a90ee.m3u8
+#EXTINF:-1,ICTV
+#EXTGRP:Загальні
+http://playlist.hmara.tv/1b80273d/5e4ad55c29656ceb0406d7c45d21f04eeedd72ed.m3u8
+#EXTINF:-1,ICTV HD
+#EXTGRP:Загальні
+http://playlist.hmara.tv/1b80273d/93601d5f3c8e55de48b840965a318c540eaf0551.m3u8
+#EXTINF:-1,НТН
+#EXTGRP:Інформаційні
+http://playlist.hmara.tv/1b80273d/d34c63581decd2e2209f416e9cd2965ddc37fb4f.m3u8
+#EXTINF:-1,СТБ
+#EXTGRP:Розважальні
+http://playlist.hmara.tv/1b80273d/11c36e77d5bfa1db182f8b2e9dde4609750baab7.m3u8
+#EXTINF:-1,СТБ HD
+#EXTGRP:Розважальні
+http://playlist.hmara.tv/1b80273d/b0151bbd45d395daa2de9f38572ac6812e9f0f67.m3u8
+#EXTINF:-1,Enter-фильм
+#EXTGRP:Кіно
+http://playlist.hmara.tv/1b80273d/aae77b36fca88b10912c3a1b5b226f5834b4f9ec.m3u8
+#EXTINF:-1,2+2
+#EXTGRP:Загальні
+http://playlist.hmara.tv/1b80273d/d092384b6e64ebaa6d25ed4e17f199d9f1dad9e0.m3u8
 #EXTINF:-1,1+1
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/fb7b904358afe4c371755385a16008261b474f69.m3u8
 #EXTINF:-1,1+1 HD
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/8ec3f778e9db0ccdeda553015ff067db9575332b.m3u8
+#EXTINF:-1,ТЕТ
+#EXTGRP:Розважальні
+http://playlist.hmara.tv/1b80273d/6e357d409184e9fca5dcc7cd2592db319d8046ee.m3u8
+#EXTINF:-1 group-title="Новости",РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Новости",РТР Россия
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Российские",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Российские",ТНТ
+http://stream3.kuvalda.tv/hls/tnt.m3u8
+#EXTINF:-1 group-title="Новости",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Российские",НТВ
+https://cdn.mytouchtv.tv/hlsl/10/NTV/NTV_3/index.m3u8
+#EXTINF:-1 group-title="Российские",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Новости",Рен ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1 group-title="Российские",Россия 1
+https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Новости",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Русское Кино HD
+http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+#EXTINF:-1,TV1000
+#EXTGRP:Кіно
+http://playlist.hmara.tv/1b80273d/729c54a5d6b9242564356bc18521f4dcb273774e.m3u8
+#EXTINF:-1,TV1000 Action
+#EXTGRP:Кіно
+http://playlist.hmara.tv/1b80273d/e4a8ac6123b54a862cc6e132621123bc9ee3d80d.m3u8
+#EXTINF:-1,TV1000 World Kino
+#EXTGRP:Кіно
+http://playlist.hmara.tv/1b80273d/4e060ac54ca5c7e18c60999d5e9ff3e46190e1ff.m3u8
+#EXTINF:-1 group-title="ASTRA1",Охота и рыбалка
+http://tinyurl.com/y7m9wtsy/a01u
+#EXTINF:-1,Discovery Channel
+#EXTGRP:Пізнавальні
+http://playlist.hmara.tv/1b80273d/b7a138fe9d59ce5c429b2f28e9245dee655a193a.m3u8
+#EXTINF:-1,Discovery Channel HD
+#EXTGRP:Пізнавальні
+http://playlist.hmara.tv/1b80273d/f3eeec282a8622b284401fbf47065fc051ed229e.m3u8
+#EXTINF:-1,Animal Planet
+#EXTGRP:Пізнавальні
+http://playlist.hmara.tv/1b80273d/c57faef47dd912784e69161ceedfef6d5cd2b1ab.m3u8
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:Пізнавальні
+http://playlist.hmara.tv/1b80273d/846869cca443878256d757e62557f22b14c792fe.m3u8
+#EXTINF:-1,Zoom
+#EXTGRP:Музичні
+http://playlist.hmara.tv/1b80273d/392decb89458191c23a9cbe224b251aec84d65b3.m3u8
+#EXTINF:-1,Мужской
+#EXTGRP:Пізнавальні
+http://playlist.hmara.tv/1b80273d/260b416e070884ecad42c84a28d569f0af9b1684.m3u8
+#EXTINF:-1 group-title="DEOOLEG.TV",Ностальгия
+http://tinyurl.com/ycnsp9kb/a00l
+#EXTINF:-1 ,Наше любимое кино
+http://178.217.72.66/225.201.2.204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DEOOLEG.TV" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/LUBIMOE_KINO.png",Наше любимое кино
+http://tinyurl.com/ybpnzobg/233.191.133.75:1234
+#EXTINF:-1,#НАШ
+#EXTGRP:Музичні
+http://playlist.hmara.tv/1b80273d/8f753c9ce36ac4ef8f3554a48c80e905dd6ac662.m3u8
+#EXTINF:-1,#НАШЕ MUSIC
+#EXTGRP:Музичні
+http://playlist.hmara.tv/1b80273d/5850bd59351ead14d53d6f0fbfc8866b826f3b04.m3u8
 #EXTINF:-1,100% News. Одеса
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/f313203a322901d424b5ad4e63156fc00d79b8f9.m3u8
@@ -23,9 +119,6 @@ http://playlist.hmara.tv/1b80273d/cbbc530af62a9e8b3ecf462353492ff1484a66d2.m3u8
 #EXTINF:-1,112 ТВ HD
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/684a5e2b0005acd6f7bc1693653a0f27082ebce9.m3u8
-#EXTINF:-1,2+2
-#EXTGRP:Загальні
-http://playlist.hmara.tv/1b80273d/d092384b6e64ebaa6d25ed4e17f199d9f1dad9e0.m3u8
 #EXTINF:-1,24 Канал
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/7493e0c65ef3699e83f491b54377a0b53f0ab338.m3u8
@@ -77,12 +170,6 @@ http://playlist.hmara.tv/1b80273d/a094d3bf3b13dcdc8bdbd7b4acbde7b6e5908afa.m3u8
 #EXTINF:-1,Amedia Premium
 #EXTGRP:Кіно
 http://playlist.hmara.tv/1b80273d/eec3116e4e99de178f7afc67097ee505f1784c50.m3u8
-#EXTINF:-1,Animal Planet
-#EXTGRP:Пізнавальні
-http://playlist.hmara.tv/1b80273d/c57faef47dd912784e69161ceedfef6d5cd2b1ab.m3u8
-#EXTINF:-1,Animal Planet HD
-#EXTGRP:Пізнавальні
-http://playlist.hmara.tv/1b80273d/846869cca443878256d757e62557f22b14c792fe.m3u8
 #EXTINF:-1,ATR
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/8618109c6091f670b84b582ecfc270940a99a1b1.m3u8
@@ -125,12 +212,6 @@ http://playlist.hmara.tv/1b80273d/d5f3c483df9271591af574cf66e41eb7d392c6d2.m3u8
 #EXTINF:-1,Deluxe music HD
 #EXTGRP:Музичні
 http://playlist.hmara.tv/1b80273d/6cc17613bb27bc75f0a0141c52c23598911e8b00.m3u8
-#EXTINF:-1,Discovery Channel
-#EXTGRP:Пізнавальні
-http://playlist.hmara.tv/1b80273d/b7a138fe9d59ce5c429b2f28e9245dee655a193a.m3u8
-#EXTINF:-1,Discovery Channel HD
-#EXTGRP:Пізнавальні
-http://playlist.hmara.tv/1b80273d/f3eeec282a8622b284401fbf47065fc051ed229e.m3u8
 #EXTINF:-1,Discovery Science
 #EXTGRP:Пізнавальні
 http://playlist.hmara.tv/1b80273d/b430283864cea2a30d65cf52bed5b7e8117703ca.m3u8
@@ -158,9 +239,6 @@ http://playlist.hmara.tv/1b80273d/810d07063c31644269e278ef2a519031414f6fb8.m3u8
 #EXTINF:-1,English Club TV
 #EXTGRP:Пізнавальні
 http://playlist.hmara.tv/1b80273d/6a50fd52e6c604df556c4acff370100b549cfea7.m3u8
-#EXTINF:-1,Enter-фильм
-#EXTGRP:Кіно
-http://playlist.hmara.tv/1b80273d/aae77b36fca88b10912c3a1b5b226f5834b4f9ec.m3u8
 #EXTINF:-1,EU Music
 #EXTGRP:Музичні
 http://playlist.hmara.tv/1b80273d/2ae70ea42f849deae53854f182fbc7fab3e5a2a1.m3u8
@@ -227,12 +305,6 @@ http://playlist.hmara.tv/1b80273d/27787d843671743a194dded3b1a661d6ed3dd49c.m3u8
 #EXTINF:-1,Hromadske
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/31a8d77716a6795c4b43ebb8dbf43fbf5012c020.m3u8
-#EXTINF:-1,ICTV
-#EXTGRP:Загальні
-http://playlist.hmara.tv/1b80273d/5e4ad55c29656ceb0406d7c45d21f04eeedd72ed.m3u8
-#EXTINF:-1,ICTV HD
-#EXTGRP:Загальні
-http://playlist.hmara.tv/1b80273d/93601d5f3c8e55de48b840965a318c540eaf0551.m3u8
 #EXTINF:-1,ID xtra
 #EXTGRP:Пізнавальні
 http://playlist.hmara.tv/1b80273d/b796dc451204ba5ec102db8bbc4229505735216e.m3u8
@@ -398,15 +470,6 @@ http://playlist.hmara.tv/1b80273d/8f891ad85822935ce8e8f1e8207a3b8ed2deb7af.m3u8
 #EXTINF:-1,TRAVEL GUIDE-TV HD
 #EXTGRP:Пізнавальні
 http://playlist.hmara.tv/1b80273d/f22d5758150542f0b423c4e6143b44f06dff9c54.m3u8
-#EXTINF:-1,TV1000
-#EXTGRP:Кіно
-http://playlist.hmara.tv/1b80273d/729c54a5d6b9242564356bc18521f4dcb273774e.m3u8
-#EXTINF:-1,TV1000 Action
-#EXTGRP:Кіно
-http://playlist.hmara.tv/1b80273d/e4a8ac6123b54a862cc6e132621123bc9ee3d80d.m3u8
-#EXTINF:-1,TV1000 World Kino
-#EXTGRP:Кіно
-http://playlist.hmara.tv/1b80273d/4e060ac54ca5c7e18c60999d5e9ff3e46190e1ff.m3u8
 #EXTINF:-1,TV7+. Хмельницький
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/35308d4df3dcdc5d330d4685fc0442e2afd90df1.m3u8
@@ -527,9 +590,6 @@ http://playlist.hmara.tv/1b80273d/6d0c5901b0b5d0b258bb343cd43e51a6a0700bd9.m3u8
 #EXTINF:-1,Zik
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/8dbb5769d232861b539b3128be17c475623baa95.m3u8
-#EXTINF:-1,Zoom
-#EXTGRP:Музичні
-http://playlist.hmara.tv/1b80273d/392decb89458191c23a9cbe224b251aec84d65b3.m3u8
 #EXTINF:-1,А/ТВК Харків
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/246e1d5a2a57f2f57d077fb6d6be22535592a9d4.m3u8
@@ -617,9 +677,6 @@ http://playlist.hmara.tv/1b80273d/fb1925669a9bd50704ccb1785c40e85032d5640b.m3u8
 #EXTINF:-1,Индиго
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/668ec6b7f5e36512e23be9d6b7dff85ccc3ee89e.m3u8
-#EXTINF:-1,Интер
-#EXTGRP:Загальні
-http://playlist.hmara.tv/1b80273d/626364417d0cb79860b66e1aad993d55b8612d6f.m3u8
 #EXTINF:-1,К1
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/f424cce50794bf9fb1d5bc84b228f6a2dbf010e2.m3u8
@@ -704,9 +761,6 @@ http://playlist.hmara.tv/1b80273d/1395c54f63b9aa1fe38c18f59f8320e3089cc5e1.m3u8
 #EXTINF:-1,Мужское кино
 #EXTGRP:Кіно
 http://playlist.hmara.tv/1b80273d/7df92b6a4130f33af98671a0319633d2878c496e.m3u8
-#EXTINF:-1,Мужской
-#EXTGRP:Пізнавальні
-http://playlist.hmara.tv/1b80273d/260b416e070884ecad42c84a28d569f0af9b1684.m3u8
 #EXTINF:-1,МУЗ-ТВ
 #EXTGRP:Музичні
 http://playlist.hmara.tv/1b80273d/b4b85a7261252a0b1bf39f77a02923e1ebbbcb01.m3u8
@@ -749,9 +803,6 @@ http://playlist.hmara.tv/1b80273d/28ae1802c5584e8302beabc76e8cb648db52c9cf.m3u8
 #EXTINF:-1,НТК. Коломия
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/305668efd186ae9d7ae11c64b7704698d39d71c8.m3u8
-#EXTINF:-1,НТН
-#EXTGRP:Інформаційні
-http://playlist.hmara.tv/1b80273d/d34c63581decd2e2209f416e9cd2965ddc37fb4f.m3u8
 #EXTINF:-1,О-ТВ
 #EXTGRP:Музичні
 http://playlist.hmara.tv/1b80273d/e27fb55bfd4b5f65076c41057eda6e03c0d120d4.m3u8
@@ -866,12 +917,6 @@ http://playlist.hmara.tv/1b80273d/51aab958ef46b08bbc2d37785dd7c9cdc119c2b4.m3u8
 #EXTINF:-1,Спорт 2 Україна
 #EXTGRP:Спортивні
 http://playlist.hmara.tv/1b80273d/99bf66ae161d98d77f6348d83b418a00406837ef.m3u8
-#EXTINF:-1,СТБ
-#EXTGRP:Розважальні
-http://playlist.hmara.tv/1b80273d/11c36e77d5bfa1db182f8b2e9dde4609750baab7.m3u8
-#EXTINF:-1,СТБ HD
-#EXTGRP:Розважальні
-http://playlist.hmara.tv/1b80273d/b0151bbd45d395daa2de9f38572ac6812e9f0f67.m3u8
 #EXTINF:-1,СТС Love
 #EXTGRP:Розважальні
 http://playlist.hmara.tv/1b80273d/e4834c6c55a648e9aa9a3917354a93f298bedd33.m3u8
@@ -902,18 +947,12 @@ http://playlist.hmara.tv/1b80273d/239476c90fdf34e3d257b50df2d524131fbeca8c.m3u8
 #EXTINF:-1,Трофей
 #EXTGRP:Пізнавальні
 http://playlist.hmara.tv/1b80273d/727362debfad56f1d50a8a736ba1f2a957dc871d.m3u8
-#EXTINF:-1,Україна
-#EXTGRP:Загальні
-http://playlist.hmara.tv/1b80273d/f7092926d996e3034ae406a59e42047ec57ecbf9.m3u8
 #EXTINF:-1,Україна 24
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/d98db5c3b1d77a9814d848fa582de514c4c61eb5.m3u8
 #EXTINF:-1,Україна 24 HD
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/066494b8d5e07626c307e26cb31d036e57cca6da.m3u8
-#EXTINF:-1,Україна HD
-#EXTGRP:Загальні
-http://playlist.hmara.tv/1b80273d/575b9e778294bea19582ec8705f7c58fdc1a90ee.m3u8
 #EXTINF:-1,Униан ТВ
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/1b80273d/573db22fa4e1ecb358a23e36186315d47e34a94d.m3u8
