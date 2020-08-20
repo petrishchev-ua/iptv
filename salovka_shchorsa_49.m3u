@@ -137,7 +137,60 @@ http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
-#EXTM3U
+#EXTINF:-1 ,Белсат TV
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 ,СТВ Беларусь
+https://sc.id-tv.kz:443/STV.m3u8
+#EXTINF:-1 ,СТВ Беларусь HD
+http://tv2.onenet.by:80/STV/mono.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 ,СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Беларусь 2
+http://82.209.201.57:7001/play/a008
+#EXTINF:-1 group-title="Беларусь",8 Канал Беларусь
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 ,8 канал (Беларусь)
+http://91.215.176.238:8000/8channel?checkedby:iptvcat.com
+#EXTINF:-1 ,СТВ Беларусь HD
+http://93.125.121.50:8080/STV/index.m3u8
+#EXTINF:-1 ,8 канал (Витебск) HD
+http://95.46.208.8:24433/art
+#EXTINF:-1 ,8 канал (Витебск)
+http://95.46.208.8:24433/art?checkedby:iptvcat.com
+#EXTINF:-1 ,Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 ,Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4?checkedby:iptvcat.com
+#EXTINF:-1 ,Наше ТВ Витебск [BY]
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 ,Наше ТВ Витебск [BY]
+http://95.46.208.8:26259/nashe?checkedby:iptvcat.com
+#EXTINF:-1 ,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 ,БелРос ТВ
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 ,Беларусь 1
+http://persik.by/stream/1105/91303/118.m3u8
+#EXTINF:-1 ,Беларусь 1 HD
+http://persik.by/stream/1105/91303/10405.m3u8
+#EXTINF:-1 ,Беларусь 2
+http://persik.by/stream/1105/91303/148.m3u8
+#EXTINF:-1 ,Беларусь 24
+http://persik.by/stream/1105/91303/10200.m3u8
+#EXTINF:-1 ,РТР-Беларусь
+http://persik.by/stream/1105/91303/700.m3u8
+#EXTINF:-1 ,НТВ-Беларусь
+http://persik.by/stream/1105/91303/699.m3u8
+#EXTINF:-1 ,СТВ
+http://persik.by/stream/1105/91303/115.m3u8
+#EXTINF:-1 ,Беларусь 3
+http://persik.by/stream/1105/91303/883.m3u8
+#EXTINF:-1 ,Беларусь 5
+http://persik.by/stream/1105/91303/932.m3u8
 #EXTINF:-1,#НАШ
 http://playlist.hmara.tv/ff8cc817/f0e8e406c58a22e0c17060ca1942c184c579f2c7.m3u8
 #EXTINF:-1,#НАШЕ MUSIC
