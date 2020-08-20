@@ -956,9 +956,6 @@ http://playlist.hmara.tv/bd66660c/750fb1ec5daba06373ad0206b829739c47af412a.m3u8
 #EXTINF:-1,ЯТБ. Херсон
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/bd66660c/6834c562bcfe814e11a018b3852c7866b6dcc5c5.m3u8
-
-#EXTINF:-1 group-title="Кино",Hollywood
-http://178.217.72.66:80/225.201.2.76/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",ТВ XXI
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино",Fox life HD
@@ -967,14 +964,6 @@ http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1 group-title="Кино",HD Кино
 https://autopilot.catcast.tv/content/36168/index.m3u8
-#EXTINF:-1 group-title="Кино",Илья ТВ HD
-http://mystrah.online/iptv/XZRBCCH/channel/1182.m3u8
-#EXTINF:-1 group-title="Кино",The X-Files
-http://mystrah.online/iptv/XZRBCCH/channel/1135.m3u8
-#EXTINF:-1 group-title="Кино",Кино 1 HD
-http://mystrah.online/iptv/XZRBCCH/channel/1175.m3u8
-#EXTINF:-1 group-title="Кино",Кинозал! ХИТ HD
-http://mystrah.online/iptv/XZRBCCH/channel/511.m3u8
 #EXTINF:-1 group-title="Кино",НАЗАД В 90е
 http://v2.catcast.me/content/37614/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 HD
@@ -987,8 +976,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m
 http://sc.id-tv.kz/A2_34_35.m3u8
 #EXTINF:-1 group-title="Кино",A2
 https://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1 group-title="Кино",Amedia 2
-http://hlstv.kem.211.ru/239.211.211.82/stream.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit HD
 http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
 #EXTINF:-1 group-title="Кино",Paramount Channel
