@@ -10,20 +10,10 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 ,Интер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 ,Килия Контакт/Интер+ (Одесса)
-http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
-#EXTINF:-1 ,ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
-#EXTINF:-1 ,ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
+
 #EXTINF:-1 ,Интер
 http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
-#EXTINF:-1 ,Интер
-http://lb1.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 ,ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
-#EXTINF:-1 group-title="VPN_УКРАИНА" tvg-logo="http://ott.onlineott.tv/logos/63.png",ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8?|User-agent=deooleg
+
 #EXTINF:-1,Україна
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/f7092926d996e3034ae406a59e42047ec57ecbf9.m3u8
