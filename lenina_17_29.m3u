@@ -4,8 +4,6 @@
 http://playlist.hmara.tv/1b80273d/626364417d0cb79860b66e1aad993d55b8612d6f.m3u8
 #EXTINF:-1 ,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 ,Интер
-http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
 #EXTINF:-1,Україна
 #EXTGRP:Загальні
 http://playlist.hmara.tv/1b80273d/f7092926d996e3034ae406a59e42047ec57ecbf9.m3u8
