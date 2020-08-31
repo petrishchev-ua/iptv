@@ -1739,3 +1739,195 @@ http://playlist.hmara.tv/44836c88/b4f6c1e0893942bec0e47a13bcff3f211a92c83b.m3u8
 #EXTINF:-1,ЯТБ. Херсон
 #EXTGRP:Інформаційні
 http://playlist.hmara.tv/44836c88/65bcec4021c1266c2c9b9b0f1589b3848dafa27f.m3u8
+#EXTINF:-1,1+1
+http://playlist.hmara.tv/ff8cc817/3efce7f1e8e893b7eaf5f57d52cf6fd555204eeb.m3u8
+#EXTINF:-1,1+1 HD
+http://playlist.hmara.tv/ff8cc817/e4a74345cc95a56634a60a84da669f18c006eb46.m3u8
+#EXTINF:-1,2+2
+http://playlist.hmara.tv/ff8cc817/3a3474efd7acf0d22f7de5ede8842521b80d6d32.m3u8
+#EXTINF:-1 ,2+2 HD
+http://91.234.24.5:8080/2plus2_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,2+2 HD
+http://163.172.71.147:8080/2plus2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,2+2
+http://tinyurl.com/ybpnzobg/233.191.133.117:1234
+#EXTINF:-1 ,ictv
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:-1 ,ICTV HD
+http://163.172.71.147:8080/ictv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ICTV HD
+http://tinyurl.com/ybpnzobg/233.191.133.25:1234
+#EXTINF:-1 ,СТБ
+http://188.35.9.11:2002/index.m3u8
+#EXTINF:-1 ,ТЕТ
+http://178.217.72.66:80/225.201.2.104/playlist.m3u8
+#EXTINF:-1 ,ИНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 ,Новый канал
+http://51.15.176.84/hls/novy-1/index.m3u8
+#EXTINF:-1 ,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 ,Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 ,Малятко ТВ
+http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 ,Малятко ТВ
+http://api-tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 ,Трофей HD
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:-1 ,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 ,Рен ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8
+#EXTINF:-1 ,Рен ТВ International
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 ,РЕН ТВ
+https://sc.id-tv.kz/RenTV_34_35.m3u8
+#EXTINF:-1 ,Первый канал "Евразия"
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 ,Первый канал Евразия
+https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 ,Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+#EXTINF:-1 ,Первый HD
+http://tinyurl.com/y7m9wtsy/a00w
+#EXTINF:-1 ,Первый Канал
+http://tinyurl.com/y7m9wtsy/a035
+#EXTINF:-1 ,Первый канал HD
+http://tinyurl.com/y7m9wtsy/a09o
+#EXTINF:-1 ,Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 ,РТР Россия
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b400000.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://hlstv.brn.211.ru/239.211.200.2/stream.m3u8
+#EXTINF:-1 ,Россия 1 hd
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1 ,Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8
+#EXTINF:-1 ,Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Россия 24
+http://93.158.224.1:4022/udp/239.2.100.58:4321
+#EXTINF:-1 ,Россия 24
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
+#EXTINF:-1 ,Россия 24
+http://178.163.56.136:81/udp/234.0.0.207:2000
+#EXTINF:-1 ,Россия 2
+http://82.200.80.142:8080/rus2/mono.m3u8
+#EXTINF:-1 ,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
+#EXTINF:-1 ,НТВ
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 ,НТВ
+https://cdn.mytouchtv.tv/hlsl/10/NTV/NTV_3/index.m3u8
+#EXTINF:-1 ,НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Новости",РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Российские",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Российские",ТНТ
+http://stream3.kuvalda.tv/hls/tnt.m3u8
+#EXTINF:-1 group-title="Украинские",ТНТ
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565870524/f0cf8e2504b8cce059330e81fe414e1e/playlist.m3u8
+#EXTINF:-1 group-title="Белорусские",8 канал (Беларусь)
+http://91.215.176.238:8000/8channel?checkedby:iptvcat.com
+#EXTINF:-1,TV1000
+http://playlist.hmara.tv/ff8cc817/5bcea8c9eca6eff5b42e51ff457f00bcc0d98d3b.m3u8
+#EXTINF:-1,TV1000 Action
+http://playlist.hmara.tv/ff8cc817/be2cbbd8d4fbbc73ca68d10b49d10efa8a9e85fe.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Full HD
+http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Action Full HD
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Марс ТВ
+https://v2.catcast.tv/content/37033/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинозал 20 (Ужасы EVGENIY)
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1 group-title="Кино",Fear (УЖАСЫ) EVGENIY
+http://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:-1 group-title="Кино",ТВ XXI
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8
+#EXTINF:-1 group-title="Кино",TV XXI
+http://hlstv.kem.211.ru/239.211.211.79/stream.m3u8
+#EXTINF:-1 group-title="Кино",VIP PREMIERE
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_2.m3u8
+#EXTINF:-1 group-title="Кино",ViP Megahit Full HD
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
+#EXTINF:-1 group-title="Кино",ViP Comedy Full HD
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery_Science_HD
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal_Planet_HD
+http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:-1 ,Белсат TV
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 ,СТВ Беларусь
+https://sc.id-tv.kz:443/STV.m3u8
+#EXTINF:-1 ,СТВ Беларусь HD
+http://tv2.onenet.by:80/STV/mono.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 ,СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Беларусь 2
+http://82.209.201.57:7001/play/a008
+#EXTINF:-1 group-title="Беларусь",8 Канал Беларусь
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 ,8 канал (Беларусь)
+http://91.215.176.238:8000/8channel?checkedby:iptvcat.com
+#EXTINF:-1 ,СТВ Беларусь HD
+http://93.125.121.50:8080/STV/index.m3u8
+#EXTINF:-1 ,8 канал (Витебск) HD
+http://95.46.208.8:24433/art
+#EXTINF:-1 ,8 канал (Витебск)
+http://95.46.208.8:24433/art?checkedby:iptvcat.com
+#EXTINF:-1 ,Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 ,Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4?checkedby:iptvcat.com
+#EXTINF:-1 ,Наше ТВ Витебск [BY]
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 ,Наше ТВ Витебск [BY]
+http://95.46.208.8:26259/nashe?checkedby:iptvcat.com
+#EXTINF:-1 ,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 ,БелРос ТВ
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 ,Беларусь 1
+http://persik.by/stream/1105/91303/118.m3u8
+#EXTINF:-1 ,Беларусь 1 HD
+http://persik.by/stream/1105/91303/10405.m3u8
+#EXTINF:-1 ,Беларусь 2
+http://persik.by/stream/1105/91303/148.m3u8
+#EXTINF:-1 ,Беларусь 24
+http://persik.by/stream/1105/91303/10200.m3u8
+#EXTINF:-1 ,РТР-Беларусь
+http://persik.by/stream/1105/91303/700.m3u8
+#EXTINF:-1 ,НТВ-Беларусь
+http://persik.by/stream/1105/91303/699.m3u8
+#EXTINF:-1 ,СТВ
+http://persik.by/stream/1105/91303/115.m3u8
+#EXTINF:-1 ,Беларусь 3
+http://persik.by/stream/1105/91303/883.m3u8
+#EXTINF:-1 ,Беларусь 5
+http://persik.by/stream/1105/91303/932.m3u8
